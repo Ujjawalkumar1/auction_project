@@ -145,8 +145,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## 📩 Contact
 For any questions or feedback, feel free to reach out:
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Email:** ujjawalkumar787898@gmail.com
+
 
 ## 🙏 Acknowledgments
 - Thanks to **XAMPP** for providing a local development environment.
