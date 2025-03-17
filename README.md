@@ -28,17 +28,15 @@ This project is an **Auction Management System** designed to streamline the proc
    *Admins can log in using their credentials.*  
    ![Admin Login](images/1.png)
 
-2. **Auction Management Page**  
-   *Admins can view the list of items, add new items, and delete existing items.*  
-   ![Auction Management](screenshots/auction_management.png)
 
-3. **Add New Item Modal**  
-   *Admins can add new items using a popup modal.*  
-   ![Add New Item](screenshots/add_new_item.png)
+   images/1.png
 
-4. **Delete Confirmation Dialog**  
-   *Admins are prompted to confirm before deleting an item.*  
-   ![Delete Confirmation](screenshots/delete_confirmation.png)
+
+   ![Auction Management](images/2.png)
+      ![](images/3.png)
+      ![](images/4.png)
+      ![](images/5.png)
+
 
 ## 🛠️ Technologies Used
 
