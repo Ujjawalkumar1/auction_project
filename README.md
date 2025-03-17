@@ -26,7 +26,7 @@ This project is an **Auction Management System** designed to streamline the proc
 
 1. **Admin Login Page**  
    *Admins can log in using their credentials.*  
-   ![Admin Login](screenshots/admin_login.png)
+   ![Admin Login](images/1.png)
 
 2. **Auction Management Page**  
    *Admins can view the list of items, add new items, and delete existing items.*  
