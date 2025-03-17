@@ -145,13 +145,3 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 For any questions or feedback, feel free to reach out:
 - **Email:** ujjawalkumar787898@gmail.com
 
-
-## 🙏 Acknowledgments
-- Thanks to **XAMPP** for providing a local development environment.
-- Special thanks to my **manager** for guiding me through this project.
-
----
-
-_Replace `your-username` with your GitHub username and add actual screenshots in the `screenshots/` folder._
-
-🚀 Happy Coding! 🎯
